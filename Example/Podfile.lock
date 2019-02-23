@@ -1,0 +1,16 @@
+PODS:
+  - SwiftNavigator (0.1.0)
+
+DEPENDENCIES:
+  - SwiftNavigator (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftNavigator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftNavigator: cca26e27e1dd0d6663747f48c7a0154080170752
+
+PODFILE CHECKSUM: 0c1965d4bff3e8f5b8374e7ab54f103d62e3372d
+
+COCOAPODS: 1.5.3
