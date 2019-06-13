@@ -57,10 +57,10 @@ pod 'SwiftNavigator'
 
 [Carthage](https://github.com/Carthage/Carthage) is a simple, decentralized dependency manager for Cocoa.
 
-To install Xniffer, simply add the following line to your Cartfile:
+To install SwiftNavigator, simply add the following line to your Cartfile:
 
 ```ogdl
-github "alchemy/SwiftNavigator"
+github "SwiftNavigator"
 ```
 
 ## Example
